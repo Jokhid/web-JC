@@ -29,7 +29,7 @@ const Navbar = () => {
       >
         <div className="flex items-center gap-4 group cursor-pointer">
           <div className="w-12 h-12 flex items-center justify-center overflow-hidden">
-            <img src="/logo.png" alt="Logo Protección Financiera" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
+            <img src="logo.png" alt="Logo Protección Financiera" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
           </div>
         </div>
 
@@ -795,7 +795,7 @@ const Footer = () => {
           <div className="col-span-2">
             <div className="flex items-center gap-5 mb-12">
                 <div className="w-20 h-20 bg-white rounded-2xl flex items-center justify-center overflow-hidden shadow-2xl">
-                    <img src="/logo.png" alt="Logo" className="w-14 h-14 object-contain" referrerPolicy="no-referrer" />
+                    <img src="logo.png" alt="Logo" className="w-14 h-14 object-contain" referrerPolicy="no-referrer" />
                 </div>
             </div>
             <p className="text-gray-400 text-xl max-w-sm leading-relaxed mb-12 font-light">
