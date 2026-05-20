@@ -532,7 +532,7 @@ const Audiences = () => {
             transition={{ duration: 1 }}
             className="order-1 md:order-2"
           >
-            <img src="https://images.unsplash.com/photo-1543332164-6e82f355badc?auto=format&fit=crop&q=80&w=800" alt="Familia" className="rounded-[3rem] shadow-2xl relative z-10" referrerPolicy="no-referrer" />
+            <img src="familia.png" alt="Familia" className="rounded-[3rem] shadow-2xl relative z-10" referrerPolicy="no-referrer" />
             <div className="absolute -inset-4 border-2 border-brand-orange/20 rounded-[3.5rem] -rotate-3 z-0"></div>
           </motion.div>
         </div>
