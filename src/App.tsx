@@ -451,7 +451,7 @@ const Audiences = () => {
             transition={{ duration: 1 }}
             className="relative"
           >
-             <img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&q=80&w=800" alt="Autónomos" className="rounded-[3rem] shadow-[0_50px_100px_-20px_rgba(0,0,0,0.15)] grayscale-[20%]" referrerPolicy="no-referrer" />
+             <img src="Imagen generada por Gemini_brfhutbrfhutbrfh.png" alt="Autónomos" className="rounded-[3rem] shadow-[0_50px_100px_-20px_rgba(0,0,0,0.15)] grayscale-[20%]" referrerPolicy="no-referrer" />
              <motion.div 
                 animate={{ rotate: [0, 2, 0] }}
                 transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
