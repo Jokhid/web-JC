@@ -248,7 +248,7 @@ const ProblemSection = () => {
             <div className="aspect-square bg-brand-dark rounded-[3.5rem] overflow-hidden shadow-2xl relative group">
               <div className="absolute inset-0 bg-brand-orange/10 mix-blend-overlay group-hover:bg-brand-orange/5 transition-colors duration-700"></div>
               <img 
-                src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&q=80&w=1000" 
+                src="JC sentado oficina1.png" 
                 alt="Finanzas y preocupaciones" 
                 className="w-full h-full object-cover grayscale brightness-90 group-hover:scale-105 transition-transform duration-[2000ms]"
               />
