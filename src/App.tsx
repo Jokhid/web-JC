@@ -29,7 +29,7 @@ const Navbar = () => {
       >
         <div className="flex items-center gap-4 group cursor-pointer">
           <div className="w-12 h-12 flex items-center justify-center overflow-hidden">
-            <img src="logo.png" alt="Logo Protección Financiera" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
+            <img src="logotipo H.png" alt="Logo Protección Financiera" className="w-full h-full object-contain" referrerPolicy="no-referrer" />
           </div>
         </div>
 
@@ -166,7 +166,7 @@ const Hero = () => {
              className="aspect-[4/5] bg-white rounded-[2.5rem] overflow-hidden relative border border-gray-100 shadow-2xl"
           >
              <img 
-               src="jc y clientes.png" 
+               src="yo tablet y boli sin fondo.png" 
                alt="Asesor Financiero" 
                className="w-full h-full object-contain transition-transform hover:scale-105 duration-1000"
                referrerPolicy="no-referrer"
@@ -700,7 +700,7 @@ const AboutMe = () => {
                   transition={{ duration: 1 }}
                   className="absolute -inset-4 bg-brand-orange rounded-[3rem] -z-10 opacity-10"
                 ></motion.div>
-                <img src="https://images.unsplash.com/photo-1542744173-8e0ee26dfaf5?auto=format&fit=crop&q=80&w=800" alt="Consultoría financiera especializada" className="rounded-[3rem] w-full relative z-10 shadow-2xl grayscale-[15%]" referrerPolicy="no-referrer" />
+                <img src="jc y clientes.png" alt="Consultoría financiera especializada" className="rounded-[3rem] w-full relative z-10 shadow-2xl grayscale-[15%]" referrerPolicy="no-referrer" />
              </div>
           </motion.div>
           <motion.div 
@@ -795,7 +795,7 @@ const Footer = () => {
           <div className="col-span-2">
             <div className="flex items-center gap-5 mb-12">
                 <div className="w-20 h-20 bg-white rounded-2xl flex items-center justify-center overflow-hidden shadow-2xl">
-                    <img src="logo.png" alt="Logo" className="w-14 h-14 object-contain" referrerPolicy="no-referrer" />
+                    <img src="logotipo H.png" alt="Logo" className="w-14 h-14 object-contain" referrerPolicy="no-referrer" />
                 </div>
             </div>
             <p className="text-gray-400 text-xl max-w-sm leading-relaxed mb-12 font-light">
