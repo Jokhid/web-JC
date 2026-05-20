@@ -571,7 +571,7 @@ const DiagnosisForm = () => {
                 </div>
                 <div>
                   <p className="text-[10px] font-black uppercase tracking-[0.3em] text-gray-500 mb-2">WhatsApp Directo</p>
-                  <p className="text-white text-3xl font-light tracking-tight">+34 600 000 000</p>
+                  <p className="text-white text-3xl font-light tracking-tight">+34 647 50 60 40</p>
                 </div>
               </div>
               <div className="flex items-center gap-8 group">
@@ -580,7 +580,7 @@ const DiagnosisForm = () => {
                 </div>
                 <div>
                   <p className="text-[10px] font-black uppercase tracking-[0.3em] text-gray-500 mb-2">Email Profesional</p>
-                  <p className="text-white text-3xl font-light tracking-tight">hola@josecarloshidalgo.com</p>
+                  <p className="text-white text-3xl font-light tracking-tight">jose.hidalgo@nnespana.com</p>
                 </div>
               </div>
             </div>
@@ -601,7 +601,7 @@ const DiagnosisForm = () => {
                 </div>
                 <div className="space-y-3">
                   <label className="text-[10px] font-black uppercase tracking-[0.2em] text-brand-gray ml-2">WhatsApp</label>
-                  <input type="tel" placeholder="+34 000 000 000" className="w-full bg-[#F5F5F7] border-none rounded-2xl p-6 text-brand-dark focus:ring-2 focus:ring-brand-orange outline-none transition-all placeholder:text-gray-300 font-medium" />
+                  <input type="tel" placeholder="+34 647 50 60 40" className="w-full bg-[#F5F5F7] border-none rounded-2xl p-6 text-brand-dark focus:ring-2 focus:ring-brand-orange outline-none transition-all placeholder:text-gray-300 font-medium" />
                 </div>
               </div>
               <div className="space-y-3">
