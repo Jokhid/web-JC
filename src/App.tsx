@@ -774,7 +774,7 @@ const FinalCTA = () => {
                <motion.a 
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="https://wa.me/34600000000" 
+                href="https://wa.me/34647506040" 
                 target="_blank" 
                 className="w-full sm:w-auto bg-white/5 backdrop-blur-xl text-white border border-white/10 px-16 py-8 rounded-full font-black text-xs hover:bg-white/10 transition-all flex items-center justify-center gap-4 uppercase tracking-[0.4em] text-center"
                >
