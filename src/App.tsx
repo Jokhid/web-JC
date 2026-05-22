@@ -401,7 +401,7 @@ const ServicesSection = () => {
             id="proteccion" 
             icon={ShieldCheck} 
             title="Protección Familiar" 
-            desc="Blindaje de ingresos y estabilidad hogareña ante cualquier imprevisto severo." 
+            desc="Blindaje de ingresos y estabilidad familiar ante cualquier imprevisto severo." 
             items={["Seguro de vida", "Incapacidad total", "Protección enfermedades graves y cáncer"]} 
             delay={0}
             className=""
