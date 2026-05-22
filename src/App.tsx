@@ -111,7 +111,7 @@ const Hero = () => {
             transition={{ duration: 1.2, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
             className="text-6xl md:text-[6.5rem] font-serif leading-[0.92] tracking-tighter mb-10 text-brand-dark"
           >
-            Protege tus ingresos, <br/>tu <span className="text-brand-orange italic font-light">vivienda</span> e hijos
+            Protege tus ingresos, <br/>tu <span className="text-brand-orange italic font-light">vivienda</span> y familia
           </motion.h1>
           
           <motion.p 
