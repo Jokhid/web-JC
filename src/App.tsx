@@ -402,7 +402,7 @@ const ServicesSection = () => {
             icon={ShieldCheck} 
             title="Protección Familiar" 
             desc="Blindaje de ingresos y estabilidad hogareña ante cualquier imprevisto severo." 
-            items={["Seguro de vida", "Incapacidad total", "Protección hogar"]} 
+            items={["Seguro de vida", "Incapacidad total", "Protección enfermedades graves y cáncer"]} 
             delay={0}
             className=""
           />
@@ -411,7 +411,7 @@ const ServicesSection = () => {
             icon={Home} 
             title="Hipotecas" 
             desc="Análisis técnico para conseguir la mejor financiación del mercado." 
-            items={["Viabilidad bancaria", "Mejora de condiciones"]} 
+            items={["Viabilidad bancaria", "Mejora de condiciones", "Hasta el 100% de financiación"]} 
             delay={0.2}
             className=""
           />
@@ -420,7 +420,7 @@ const ServicesSection = () => {
             icon={HeartPulse} 
             title="Salud Premium" 
             desc="Acceso preferente a la mejor medicina privada sin esperas ni trabas." 
-            items={["Seguro médico total", "Sin copagos", "Especialistas top"]} 
+            items={["Seguro médico total", "Con o sin copagos", "Especialistas top"]} 
             delay={0.4}
             className=""
           />
@@ -429,7 +429,7 @@ const ServicesSection = () => {
             icon={PiggyBank} 
             title="Ahorro" 
             desc="Estrategias de inversión y ahorro para jubilación y objetivos a largo plazo." 
-            items={["Fondos inversión", "Ahorro infantil", "Plan jubilación"]} 
+            items={["Ahorro garantizado", "Planes garantizados de inversión", "Planes de pensiones"]} 
             delay={0.6}
             className=""
           />
@@ -511,7 +511,7 @@ const Audiences = () => {
             <span className="text-brand-blue font-bold text-lg mb-6 inline-block tracking-wide">Bienestar Familiar</span>
             <h2 className="text-3xl md:text-7xl font-serif mb-8 text-brand-blue leading-[1.1] tracking-tight">La familia es <br /><span className="text-brand-orange italic">tu primer legado</span></h2>
             <p className="text-brand-gray text-xl mb-10 leading-relaxed font-light max-w-lg">
-              No se trata de miedo, se trata de amor y responsabilidad. Mi meta es que lo peor no rompa el estilo de vida de los que más quieres. Claridad, previsión y paz mental.
+              No se trata de miedo, se trata de amor y responsabilidad. Mi meta es que lo peor no destroce el estilo de vida de los que más quieres. Claridad, previsión y paz mental.
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-12">
               {["Control de hipoteca", "Protección imprevistos", "Salud sin esperas", "Futuro de los hijos"].map((item, i) => (
