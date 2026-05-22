@@ -700,7 +700,7 @@ const AboutMe = () => {
                   transition={{ duration: 1 }}
                   className="absolute -inset-4 bg-brand-orange rounded-[3rem] -z-10 opacity-10"
                 ></motion.div>
-                <img src="jc y clientes.png" alt="Consultoría financiera especializada" className="rounded-[3rem] w-full relative z-10 shadow-2xl grayscale-[15%]" referrerPolicy="no-referrer" />
+                <img src="/jc y clientes.png" alt="Consultoría financiera especializada" className="rounded-[3rem] w-full relative z-10 shadow-2xl grayscale-[15%]" referrerPolicy="no-referrer" />
              </div>
           </motion.div>
           <motion.div 
