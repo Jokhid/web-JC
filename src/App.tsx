@@ -102,7 +102,7 @@ const Hero = () => {
             className="flex items-center gap-3 mb-8"
           >
             <span className="w-12 h-[1px] bg-brand-orange"></span>
-            <span className="text-brand-orange font-black uppercase tracking-[0.4em] text-[10px]">Asesoría de Élite</span>
+            <span className="text-brand-orange font-black uppercase tracking-[0.4em] text-[10px]">Asesoría Premium</span>
           </motion.div>
 
           <motion.h1 
