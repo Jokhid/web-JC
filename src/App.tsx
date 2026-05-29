@@ -580,7 +580,7 @@ const DiagnosisForm = () => {
                 </div>
                 <div>
                   <p className="text-[10px] font-black uppercase tracking-[0.3em] text-gray-500 mb-2">Email Profesional</p>
-                  <p className="text-white text-3xl font-light tracking-tight">jose.hidalgo@nnespana.com</p>
+                  <p className="text-white text-3xl font-light tracking-tight">josecarlos@hilolegal.es</p>
                 </div>
               </div>
             </div>
