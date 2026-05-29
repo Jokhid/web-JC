@@ -166,7 +166,7 @@ const Hero = () => {
              className="aspect-[4/5] bg-white rounded-[2.5rem] overflow-hidden relative border border-gray-100 shadow-2xl"
           >
              <img 
-               src="yo traje azul3.png" 
+               src="yo traje azul.png" 
                alt="Asesor Financiero" 
                className="w-full h-full object-contain transition-transform hover:scale-105 duration-1000"
                referrerPolicy="no-referrer"
